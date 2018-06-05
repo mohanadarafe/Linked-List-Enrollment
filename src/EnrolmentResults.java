@@ -1,12 +1,3 @@
-/**
- * @author Mohanad Arafe #40042922
- * COMP 249 - QQ
- * Assignment 4 - 13/04/2018
- * Purpose: The main driver in this assignment is the outcome
- * of a students potential enrollment. Using text reader's and
- * array list, we can determine if a student can enroll in a class.
- */
-
 package Main;
 
 import java.io.*;
