@@ -1,12 +1,4 @@
-/**
- * @author Mohanad Arafe #40042922
- * COMP 249 - QQ
- * Assignment 4 - 13/04/2018
- * Purpose: Before anything, we must define the Course objects
- * and their information such as ID, credits and so on.
- */
 package Main;
-
 import java.util.Scanner;
 
 public class Course{
