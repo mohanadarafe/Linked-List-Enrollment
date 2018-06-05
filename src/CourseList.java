@@ -1,11 +1,3 @@
-/**
- * @author Mohanad Arafe #40042922
- * COMP 249 - QQ
- * Assignment 4 - 13/04/2018
- * Purpose: The core engine of enrollment happens here. The data structure
- * of this class (linked list) helps keep track of all information of each
- * node and node manipulation.
- */
 package Main;
 
 import java.util.ArrayList;
